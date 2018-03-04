@@ -2,3 +2,4 @@
 testing hooks..
 more
  * secret added
+ * server url used
