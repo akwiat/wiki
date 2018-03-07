@@ -2,3 +2,5 @@
   * test
   * $x = 2\frac{y}{z}$
   * $T_{\mu\nu}$
+  * [[wiki:la]]
+  * [[la]]
