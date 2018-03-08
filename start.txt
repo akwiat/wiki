@@ -1,4 +1,4 @@
-===== Page title? =====
+====== Page title? ======
 ==Header 1==
   * test
   * $x = 2\frac{y}{z}$
