@@ -8,3 +8,4 @@ Page
   * [[wiki:la]]
   * [[la]]
   * nothing
+  * [[LinearAlgebra:normal-operators-and-the-svd]]
