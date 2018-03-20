@@ -21,3 +21,5 @@ If the SVD of $A$ is $UDV^{\dagger}$, then you can take the adjoint of both side
 $$ A^\dagger = VDU^\dagger $$
 Then, apply the condition of normality $\left[A, A^{\dagger}\right] = 0$ and plug in to get:
 $$ UDV^\dagger VDU^\dagger = VDU^\dagger UDV^\dagger $$
+Which reduces to
+$$ UD^2U^\dagger = VD^2V\dagger $$
