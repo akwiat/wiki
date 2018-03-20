@@ -2,13 +2,13 @@
 An operator is normal iff it commutes with its adjoint: $\left[A, B\right] = 0$. Equivalently, an operator is normal iff it admits an orthonormal eigenbasis, and we'll see here why that's true and where the SVD fits in.
 
 ==== SVD Refresher ====
-According to the SVD, any operator $A$ can be written in the form:
+For the full details see the wikipedia article on the [[https://en.wikipedia.org/wiki/Singular-value_decomposition|svd]]: According to the SVD, any operator $A$ can be written in the form:
 $$A = UDV^{\dagger}$$
 Where $U$ and $V$ are unitary and $D$ is diagonal with positive-definite entries (positive-semidefinite if $A$ is singular).
 
-The intuitive interpretation is that you can compute the action of $A$ into the following steps:
+The intuitive interpretation is that you can break down the action of $A$ into the following steps:
   - Rewrite the input in terms of the orthonormal basis given by the columns of $V$
   - Apply the scaling transform $D$
-  - Rotate by $U$
+  - Rotate each unit vector into the corresponding column of $U$
 
 Keep in mind that this is only the same as an eigen-decomposition if the two unitaries are equal: $U = V$
