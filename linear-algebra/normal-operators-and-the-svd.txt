@@ -1,6 +1,13 @@
 ====== Normal Operators ======
 An operator $A$ is normal iff it commutes with its adjoint: $\left[A, A^{\dagger}\right] = 0$. Equivalently, an operator is normal iff it admits an orthonormal eigenbasis, and we'll see here why that's true and where the SVD fits in.
 
+==== Properties of Normal Operators ====
+If $\left[A, A^{\dagger}\right] = 0$, then $A$ and $A^{\dagger}$ preserve each other's eigenspaces, which means that if $|\nu\gt$ is an eigenvector of $A$, then it's also an eigenvector of $A^{\dagger}$.
+
+Also, since $\lambda_\nu $\lt\nu|A\nu\gt$ = $\ltA^{\dagger}\nu|\nu\gt = \bar{\lambda^{\dagger}_{\nu}}$, you know that $\lambda_\nu$-eigenvectors of $A$ are $\bar{\lambda_\nu}$-eigenvectors of $A^{\dagger}$
+
+
+
 ===== SVD Refresher =====
 For the full story see the wikipedia article on the [[https://en.wikipedia.org/wiki/Singular-value_decomposition|SVD]], but here are a couple highlights.
 
