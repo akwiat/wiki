@@ -5,7 +5,7 @@ An operator $A$ is normal iff it commutes with its adjoint: $\left[A, A^{\dagger
 If $\left[A, A^{\dagger}\right] = 0$, then $A$ and $A^{\dagger}$ preserve each other's eigenspaces, which means that if $|\nu\gt$ is an eigenvector of $A$, then it's also an eigenvector of $A^{\dagger}$.
 
 Also, since:
-$$\lambda_\nu $\lt\nu|A\nu\gt = $\ltA^{\dagger}\nu|\nu\gt = \bar{\lambda^{\dagger}_{\nu}}$$
+$$\lambda_\nu \lt\nu|A\nu\gt = $\ltA^{\dagger}\nu|\nu\gt = \bar{\lambda^{\dagger}_{\nu}}$$
 you know that $\lambda_\nu$-eigenvectors of $A$ are $\bar{\lambda_\nu}$-eigenvectors of $A^{\dagger}$
 
 
