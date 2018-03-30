@@ -10,5 +10,5 @@ Page
   * nothing
   * [[linear-algebra:normal-operators-and-the-svd]]
 
-  ==Andrew's zone==
+==Andrew's zone==
   * [[middle-east:the-losers-and-bigger-losers-of-the-syrian-civil-war|My depressing guide to the Syrian Civl War]]
