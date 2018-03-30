@@ -13,7 +13,7 @@ Map source: Al Jazeera
 | **Who are they, really**: | A few true military units, many more largely-conscripted Syrian ethnic militas, some Iranian militias, Hezbollah and Russian Military Contractors |
 | **Who they fight**: | All rebels except TFSA; ISIS; occasionally the SDF |
 | **Who they are allied with**: | Russia |
-| **Despicability rating (1 = Ghastly, 10 = Utopian (Sweden?))**: |  3.5/10 |
+| **Despicability rating (1 = Ghastly, 10 = Utopian (Sweden?))**: | 3.5/10  |
 
 The Syrian Arab Army is a scam. It "sounds" like a real army, is equipped like a real army, has a structure like a real army and is treated like a real army. In reality, it's basically a kitchen sink of every dude Assad and his backers could put together, including legitimate terrorists, militias organized by ethnic groups, a bunch of Afghan dudes on the payroll for Iran and Chechen/Russian dudes on the payroll of Russia (and, admittedly, a //couple// semi-regular army units).
 
@@ -89,7 +89,7 @@ A couple months later, the group changed its name again to Hay'at Tahrir al Sham
 HTS controls Idlib city and most of the core of the Idlib province, which it has made an extremely not fun place to live, with dumb ISIS-esque laws.
 
 === Ahrar al Sham/Syrian Liberation Front/Nour al-Din al-Zenki ===
-| **Who are they**: | A cluster of less radical, nominally-allied, still primarily Salafi Islamist Jihadist groups. The second most powerful group in the rebel stronghold of Idlib
+| **Who are they**: | A cluster of less radical, nominally-allied, still primarily Salafi Islamist Jihadist groups. The second most powerful group in the rebel stronghold of Idlib |
 | **Who are they, really**: | Honestly, maybe the only group that is who they say they are. Not that that's good or anything. Backed by Turkey (definitely) and Saudi Arabia (formerly and probably still somewhat) |
 | **Who they fight**: | HTS; the government; occasionally the SDF |
 | **Who they are allied with**: | Presumably TFSA |
