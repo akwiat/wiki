@@ -8,12 +8,12 @@ Still reading? Here goes.
 Map source: Al Jazeera
 {{wiki:map.jpg}}
 
-=== SAA - Syrian Arab Army ===
-**Who are they**: The official armed forces of Bashar al Assad
-**Who are they, really**: A few true military units, many more largely-conscripted Syrian ethnic militas, some Iranian militias, Hezbollah and Russian Military Contractors
-**Who they fight**: All rebels except generally TFSA, ISIS, occasionally the SDF
-**Who they are allied with**: Russia
-**Despicability rating (1 = Ghastly, 10 = Utopian (Sweden?))**: 3.5
+==== SAA - Syrian Arab Army ====
+| **Who are they**: | The official armed forces of Bashar al Assad |
+| **Who are they, really**: | A few true military units, many more largely-conscripted Syrian ethnic militas, some Iranian militias, Hezbollah and Russian Military Contractors |
+| **Who they fight**: | All rebels except generally TFSA, ISIS, occasionally the SDF |
+| **Who they are allied with**: | Russia |
+| **Despicability rating (1 = Ghastly, 10 = Utopian (Sweden?))**: |  3.5 |
 
 The Syrian Arab Army is a scam. It "sounds" like a real army, is equipped like a real army, has a structure like a real army and is treated like a real army. In reality, it's basically a kitchen sink of every dude Assad and his backers could put together, including legitimate terrorists, militias organized by ethnic groups, a bunch of Afghan dudes on the payroll for Iran and Chechen/Russian dudes on the payroll of Russia (and, admittedly, a //couple// semi-regular army units).
 
@@ -23,7 +23,7 @@ Assad didn't stop there, and asked two of his three international leader friends
 
 As much as anyone can claim to be, the SAA, and despite the fact he is literally allied with Hezbollah this is somehow no worse than most other realistic options. Assad is at least somewhat secular and has an acceptable record of protecting minorities. He also has a ridiculous amount of blood on his hands, and has indisputably and repeatedly used chemical weapons. Also, even in victory, Assad is losing a lot -- it's unlikely that his family's hereditary rule of Syria will extend beyond his death, and he probably won't be able to recover the northern half of his country. Assad will come out of this thing as good as anyone, but noone, least of all he, should be happy about it.
 
-=== Syrian Democratic Forces ===
+==== Syrian Democratic Forces ====
 **Who are they**: A multi-ethnic military group that support democratic confederalism across Syria
 **Who are they, really**: Mostly a Kurdish militia with strong ties to the PKK, a Turkish-based terrorist group, though there are significant Arab components as well, backed by American Special Forces
 **Who they are allied with**: The Coalition (specifically US)
@@ -38,11 +38,11 @@ That all made it pretty disappointing when the SDF were drawn into direct confli
 
 The SDF are equipped and trained by the US, though the US has never given them heavy weapons (i.e tanks) or anti-aircraft weapons (called MANPADS). That leaves them relatively vulnerable to an all-out assault by either Turkey or the SAA. The US would presumably back them in a fight against the SAA, though an attack by Turkey would create a true mess of a situation. It's likely that the US will try to bolster the Arab components of these forces and install them in the more sensitive areas in an attempt to placate Turkey. Whether it works will remain to be seen.
 
-=== Rebels ===
+==== Rebels ====
 **Who are they**: Anybody rebelling against Assad who isn't ISIS
 **Who are they**, really: Yeah we're gonna have to go one-by-one
 
-== Free Syrian Army (FSA) ==
+=== Free Syrian Army (FSA) ===
 **Who are they**: The official resistance to Bashar al Assad consisting of ex-SAA and concerned citizenry
 **Who are they, really**: A nearly extinct species
 **Who they fight**: The government, ISIS, HTS at times
@@ -55,7 +55,7 @@ The FSA was never a single group, and while most of its components have been def
 
 It's a shame, really, that there was never a good option on the table to support the FSA. They saw significant success early in the war, and they offered really the only path to "victory" that this war ever saw. It's possible, though, that even if they had captured Damascus, they would have had their own struggle against hardline elements (which they never tried hard enough to distance themselves from) and ISIS (see: Libya), which may have been nearly impossible to win. I guess we'll be left wondering.
 
-== Turkish Free Syrian Army (TFSA) ==
+=== Turkish Free Syrian Army (TFSA) ===
 **Who are they**: Rebels who decided to head northward
 **Who are they**, really: An anti-Kurd force composed of Turkey and Turkish Proxies
 **Who they fight**: ISIS orignally, now SDF and occasionally the government
@@ -70,7 +70,7 @@ This initial operation only concerned ISIS, but Turkey recently decided to engag
 
 Turkey's ambitions with the increasingly large number of territories it controls in Syria are unclear. They may become an "unrecognized" part of Turkey (similar to the Golan Heights with Israel), they may give them to the government in return for some favour, they may use them to resettle the Syrian refugees living in camps in Turkey.  It's also unclear if they'll pursue further action against the Kurds, which could potentially bring them in conflict with US Special Forces (not good for anyone). Erdogan's hand is politically quite complicated (he's nominally allied to the US but hates its proxy, the SDF, and courting a friendship with Russia but doesn't care for it's proxy, the government, either), but what he decides will shape the immediate future of this stupid war.
 
-== Hay'at Tahrir al-Sham (HTS) ==
+=== Hay'at Tahrir al-Sham (HTS) ===
 **Who are they**: A Salafi Islamist Jihadist group. The most powerful rebel group in the rebel stronghold of Idlib, probably most powerful overall
 **Who are they**, really: Al Qaeda, allegedly backed by Qatar
 **Who they fight**: everyone, although not always other Rebels
@@ -87,7 +87,7 @@ A couple months later, the group changed its name again to Hay'at Tahrir al Sham
 
 HTS controls Idlib city and most of the core of the Idlib province, which it has made an extremely not fun place to live, with dumb ISIS-esque laws.
 
-== Ahrar al Sham/Syrian Liberation Front/Nour al-Din al-Zenki ==
+=== Ahrar al Sham/Syrian Liberation Front/Nour al-Din al-Zenki ===
 **Who are they**: A cluster of less radical, nominally-allied, still primarily Salafi Islamist Jihadist groups. The second most powerful group in the rebel stronghold of Idlib
 **Who are they, really**: Honestly, maybe the only group that is who they say they are. Not that that's good or anything. Backed by Turkey (definitely) and Saudi Arabia (formerly and probably still somewhat)
 **Who they fight**: HTS, the government, occasionally the SDF
@@ -102,7 +102,7 @@ Nour al-Din al-Zenki is, like, the group that can't decide whose (rebel) side it
 
 The common assumption is that, at some point, Turkey is going to come riding over the hill and help these groups win their on and off civil war with HTS. Either that, or the government will retake Idlib in some sort of atrocious battle, killing everyone in the process. Either way will probably not be good news for civilians (though Turkey has been relatively not terrible on that front at least).
 
-== New Syrian Army ==
+=== New Syrian Army ===
 **Who are they**: Explicitly American-backed rebels in the Syrian desert
 **Who are they**, really: A joke
 **Who they fight**: Sporadic battles against ISIS and the government
@@ -113,7 +113,7 @@ Worth mentioning I guess because, by sheer land area, they're quickly becoming t
 
 The SAA has now captured al Bukumal, effectively eliminating these guys' purpose, and their land really just contains a couple villages and one very large refugee camp on the Jordanian border. Also, this group is like, at most, 1,000 guys, and the SAA would have run over them if McMaster hadn't decided to reinstate US air protection when SAA-aligned militias attacked last year. These guys are probably gonna keep sitting around doing nothing in the desert for some time to come.
 
-=== ISIS ===
+==== ISIS ====
 **Who are they**: A spy agency featured in the show Archer
 **Who are they, really**: Google it
 **Who they fight**: The world
