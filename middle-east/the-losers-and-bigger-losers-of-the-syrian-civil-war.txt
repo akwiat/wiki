@@ -11,9 +11,9 @@ Map source: Al Jazeera
 ==== SAA - Syrian Arab Army ====
 | **Who are they**: | The official armed forces of Bashar al Assad |
 | **Who are they, really**: | A few true military units, many more largely-conscripted Syrian ethnic militas, some Iranian militias, Hezbollah and Russian Military Contractors |
-| **Who they fight**: | All rebels except generally TFSA, ISIS, occasionally the SDF |
+| **Who they fight**: | All rebels except TFSA; ISIS; occasionally the SDF |
 | **Who they are allied with**: | Russia |
-| **Despicability rating (1 = Ghastly, 10 = Utopian (Sweden?))**: |  3.5 |
+| **Despicability rating (1 = Ghastly, 10 = Utopian (Sweden?))**: |  3.5/10 |
 
 The Syrian Arab Army is a scam. It "sounds" like a real army, is equipped like a real army, has a structure like a real army and is treated like a real army. In reality, it's basically a kitchen sink of every dude Assad and his backers could put together, including legitimate terrorists, militias organized by ethnic groups, a bunch of Afghan dudes on the payroll for Iran and Chechen/Russian dudes on the payroll of Russia (and, admittedly, a //couple// semi-regular army units).
 
@@ -27,7 +27,7 @@ As much as anyone can claim to be, the SAA, and despite the fact he is literally
 | **Who are they**: | A multi-ethnic military group that support democratic confederalism across Syria |
 | **Who are they, really**: | Mostly a Kurdish militia with strong ties to the PKK, a Turkish-based terrorist group, though there are significant Arab components as well, backed by American Special Forces |
 | **Who they are allied with**: | The Coalition (specifically US) |
-| **Who they fight**: | ISIS, Turkey, TFSA, sometimes other rebels, occasionally the government |
+| **Who they fight**: | ISIS; Turkey; TFSA; sometimes other rebels; occasionally the government |
 | **Despicability rating**: | 6/10 |
 
 The SDF are the good guys in this war, which isn't saying much. Their backbone is the YPG, which is more or less synonymous with the PKK, an organization classified by the US and Turkey as a terrorist group (admittedly a bit harshly -- in some ways they're more freedom fighters than terrorists). And, while they stand for democracy, they haven't been all that consistent in carrying it out. They've arrested a number of opposition parities to their rule and occasionally turned violent against demonstrators.
@@ -39,9 +39,6 @@ That all made it pretty disappointing when the SDF were drawn into direct confli
 The SDF are equipped and trained by the US, though the US has never given them heavy weapons (i.e tanks) or anti-aircraft weapons (called MANPADS). That leaves them relatively vulnerable to an all-out assault by either Turkey or the SAA. The US would presumably back them in a fight against the SAA, though an attack by Turkey would create a true mess of a situation. It's likely that the US will try to bolster the Arab components of these forces and install them in the more sensitive areas in an attempt to placate Turkey. Whether it works will remain to be seen.
 
 ==== Rebels ====
-| **Who are they**: | Anybody rebelling against Assad who isn't ISIS |
-| **Who are they**, really: | Yeah we're gonna have to go one-by-one |
-
 Rebels is the mother of catch all terms. It's such a catch all term that it contains other catch all terms (e.g. FSA). No meaningful analysis can be done at this level, so we got to add a thousand words to go through these guys one-by-one.
 
 Sorry.
@@ -49,8 +46,8 @@ Sorry.
 === Free Syrian Army (FSA) ===
 | **Who are they**: | The official resistance to Bashar al Assad consisting of ex-SAA and concerned citizenry |
 | **Who are they, really**: | A nearly extinct species |
-| **Who they fight**: | The government, ISIS, HTS at times |
-| **Who they are allied with**: | Depends a lot locally. Other rebels, SDF, Turkey. Some small groups are even allied with the government. |
+| **Who they fight**: | The government; ISIS; HTS at times |
+| **Who they are allied with**: | Depends a lot locally. Some other rebels, others SDF, others Turkey. Some small groups are even allied with the government. |
 | **Despicability rating**: | 5/10 |
 
 The FSA still does exist, technically speaking. Mostly, they've been undone by a heartbreakingly brilliant strategy by Assad and Russia. Assad realized that if America/Western Europe got involved he was a goner, so early in the war he brutally attacked any group he thought we might be able to get behind, killing untold numbers of civilians in the process through an effectual scorched earth campaign. It's no coincidence that ISIS controlled almost half the country at one point while moderates struggled to fully control a single city: Assad planned it that way, effectively ignoring ISIS until he had already doomed the moderates to failure.
@@ -62,8 +59,8 @@ It's a shame, really, that there was never a good option on the table to support
 === Turkish Free Syrian Army (TFSA) ===
 | **Who are they**: | Rebels who decided to head northward |
 | **Who are they**, really: | An anti-Kurd force composed of Turkey and Turkish Proxies |
-| **Who they fight**: | ISIS orignally, now SDF and occasionally the government |
-| **Who they are allied with**: | Turkish Armed Forces, Ahrar al Sham & co |
+| **Who they fight**: | ISIS orignally; now SDF and occasionally the government |
+| **Who they are allied with**: | Turkish Armed Forces; Ahrar al Sham & co |
 | **Despicability rating**: | Difficult to rate definitively but I'll say 4.5 |
 
 This bunch of dudes really has nothing in common other than who signs their paychecks: Turkey. They follow Turkish priorities, are equipped by the Turkish government and often fight directly alongside the Turkish army.
@@ -94,7 +91,7 @@ HTS controls Idlib city and most of the core of the Idlib province, which it has
 === Ahrar al Sham/Syrian Liberation Front/Nour al-Din al-Zenki ===
 | **Who are they**: | A cluster of less radical, nominally-allied, still primarily Salafi Islamist Jihadist groups. The second most powerful group in the rebel stronghold of Idlib
 | **Who are they, really**: | Honestly, maybe the only group that is who they say they are. Not that that's good or anything. Backed by Turkey (definitely) and Saudi Arabia (formerly and probably still somewhat) |
-| **Who they fight**: | HTS, the government, occasionally the SDF |
+| **Who they fight**: | HTS; the government; occasionally the SDF |
 | **Who they are allied with**: | Presumably TFSA |
 | **Despicability rating**: | 3.5/10 |
 
@@ -110,7 +107,7 @@ The common assumption is that, at some point, Turkey is going to come riding ove
 | **Who are they**: | Explicitly American-backed rebels in the Syrian desert |
 | **Who are they**, really: | A joke |
 | **Who they fight**: | Sporadic battles against ISIS and the government |
-| **Who they are allied with**: | USA, Jordan |
+| **Who they are allied with**: | USA; Jordan |
 | **Despicability rating**: | Irrelevant |
 
 Worth mentioning I guess because, by sheer land area, they're quickly becoming the largest rebel group. Originally set up by US to control the Syria, Iraq border, effectively as a favour for Israel. Hezbollah's payoff for fighting in Syria is presumed to be weapons from Iran, and the US hoped to build a group strong enough to prevent the SAA from recapturing the Iraq border, which would break up the smuggling route for these weapons from Iran to Lebanon. The New Syrian Army did capture one of the two major border posts between Iran and Syria and attacked the other, but during the middle of their assault on the second (at al Bukumal, a major ISIS stronghold at the time) the US bizarrely pulled its air cover and they had to make a hasty retreat.
@@ -121,7 +118,7 @@ The SAA has now captured al Bukumal, effectively eliminating these guys' purpose
 | **Who are they**: | A spy agency featured in the show Archer |
 | **Who are they, really**: | Google it |
 | **Who they fight**: | The world |
-| **Who they were allied with**: | Remember that tiny group of terrible people called Jund al Aqsa that now fights with HTS? Yeah. Those guys |
+| **Who they were allied with**: | Remember that tiny group of terrible people called Jund al Aqsa that now fights with HTS? Yeah. Those guys get along. |
 | **Despicability rating**: | Boo/10 |
 
 Wait, you thought ISIS was defeated? You thought wrong. Thankfully, ISIS is just a shadow of its former self, but it still controls five pockets in Syria. Worryingly, almost all are stable.
