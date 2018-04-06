@@ -22,6 +22,16 @@ Once you've written $A$ in this form, it's a lot clearer why the eigenvalues of 
 
 You can also double check explicitly that $A$ and $A^{\dagger}$ commute (but you know they must since $UDU^{\dagger}$ and $UD^{\dagger}U^{\dagger}$ necessarily have the same eigenspaces.)
 
+===== Hermitian and Anti-Hermitian Operators =====
+Hermitian ($A^{\dagger} = A$) and Anti-Hermitian ($A^{\dagger} = -A$) are special cases of normal operators. One way to think about a general linear operator (normal or otherwise) is in terms of its Hermitian and Anti-Hermitian components (analogous to symmetric and anti-symmetric components). That is, you can write a general operator $M$ as:
+
+$$M = \frac{1}{2}(M + M^{\dagger}) + \frac{1}{2}(M = M^{\dagger}) = H + K$$
+where $H$ is defined to be the first term (which is Hermitian) and $K$ is defined to be the second term (which is Anti-Hermitian).
+
+Another equivalent way of thinking about normal operators is to convince yourself that $M$ is normal iff $H$ and $K$ commute. If they commute they must have a simultaneous orthonormal eigenbasis, which is then necessarily an orthonormal eigenbasis of $M$. (You can also directly compute $[M, M^{\dagger}]$ to verify).
+
+This interpretation may be useful in the case that a $M$ is a linear operator such that the Hermitian and Anti-Hermitian components have a small non-zero commutator. In this case, you could say (in a vague way) that $M$ is *almost* unitarily diagonalizeable.
+
 ===== SVD Refresher =====
 For the full story see the wikipedia article on the [[https://en.wikipedia.org/wiki/Singular-value_decomposition|SVD]], but here are a couple highlights.
 
