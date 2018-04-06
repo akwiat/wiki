@@ -18,7 +18,7 @@ Since all the eigenvectors of $A$ are mutually orthogonal, you can rewrite $A$ i
 $$A = UDU^{\dagger}$$
 with unitary $U$ and diagonal $D$ (assuming you normalized the eigenvectors).
 
-Once you've written $A$ in this form, it's a lot clearer why the eigenvalues of $A$ and $A^{\dagger}$ are related by complex conjugation ($A^{\dagger} = UD^{\dagger}U^{\dagger}).
+Once you've written $A$ in this form, it's a lot clearer why the eigenvalues of $A$ and $A^{\dagger}$ are related by complex conjugation ($A^{\dagger} = UD^{\dagger}U^{\dagger}$).
 
 You can also double check explicitly that $A$ and $A^{\dagger}$ commute (but you know they must since $UDU^{\dagger}$ and $UD^{\dagger}U^{\dagger}$ necessarily have the same eigenspaces.)
 
@@ -53,4 +53,4 @@ $$ A^\dagger = VDU^\dagger $$
 Then, apply the condition of normality $\left[A, A^{\dagger}\right] = 0$ and plug in to get:
 $$ UDV^\dagger VDU^\dagger = VDU^\dagger UDV^\dagger $$
 Which reduces to
-$$ UD^2U^\dagger = VD^2V\dagger $$
+$$ UD^2U^\dagger = VD^2V^\dagger $$
