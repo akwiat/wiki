@@ -9,7 +9,7 @@ $$\lambda_\nu = \lt\nu|A\nu\gt = \lt A^{\dagger}\nu|\nu\gt = \bar{\lambda^{\dagg
 you know that $\lambda_\nu$-eigenvectors of $A$ are $\overline{\lambda_\nu}$-eigenvectors of $A^{\dagger}$
 
 To show that the eigenvectors of $A$ are mutually orthogonal, consider the matrix elements of $A$ with respect to a pair of eigenvectors ($|\mu\gt$, $|\nu\gt$):
-$$\lt\mu|A|\nu\gt = \lt\mu|A\nu\gt = \ltA^{\dagger}\mu|\nu\gt$$
+$$\lt\mu|A|\nu\gt = \lt\mu|A\nu\gt = \lt A^{\dagger}\mu|\nu\gt$$
 by properties of the adjoint. Assuming that $|\mu$\gt$ and $|\nu$\gt$ are eigenvectors with distinct eigenvalues $\mu$ and $\nu$, you can modify the above to read:
 $$\mu\lt\mu|\nu\gt = \nu\lt\mu|\nu\gt$$
 which forces you to conclude that $\lt\mu|\nu\gt = 0$.
@@ -25,7 +25,7 @@ You can also double check explicitly that $A$ and $A^{\dagger}$ commute (but you
 ===== Hermitian and Anti-Hermitian Operators =====
 Hermitian ($A^{\dagger} = A$) and Anti-Hermitian ($A^{\dagger} = -A$) are special cases of normal operators. One way to think about a general linear operator (normal or otherwise) is in terms of its Hermitian and Anti-Hermitian components (analogous to symmetric and anti-symmetric components). That is, you can write a general operator $M$ as:
 
-$$M = \frac{1}{2}(M + M^{\dagger}) + \frac{1}{2}(M = M^{\dagger}) = H + K$$
+$$M = \frac{1}{2}(M + M^{\dagger}) + \frac{1}{2}(M - M^{\dagger}) = H + K$$
 where $H$ is defined to be the first term (which is Hermitian) and $K$ is defined to be the second term (which is Anti-Hermitian).
 
 Another equivalent way of thinking about normal operators is to convince yourself that $M$ is normal iff $H$ and $K$ commute. If they commute they must have a simultaneous orthonormal eigenbasis, which is then necessarily an orthonormal eigenbasis of $M$. (You can also directly compute $[M, M^{\dagger}]$ to verify).
