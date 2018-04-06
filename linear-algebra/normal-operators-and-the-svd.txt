@@ -8,7 +8,19 @@ Also, since:
 $$\lambda_\nu = \lt\nu|A\nu\gt = \lt A^{\dagger}\nu|\nu\gt = \bar{\lambda^{\dagger}_{\nu}}$$
 you know that $\lambda_\nu$-eigenvectors of $A$ are $\overline{\lambda_\nu}$-eigenvectors of $A^{\dagger}$
 
+To show that the eigenvectors of $A$ are mutually orthogonal, consider the matrix elements of $A$ with respect to a pair of eigenvectors ($|\mu\gt$, $|\nu\gt$):
+$$\lt\mu|A|\nu\gt = \lt\mu|A\nu\gt = \ltA^{\dagger}\mu|\nu\gt$$
+by properties of the adjoint. Assuming that $|\mu$\gt$ and $|\nu$\gt$ are eigenvectors with distinct eigenvalues $\mu$ and $\nu$, you can modify the above to read:
+$$\mu\lt\mu|\nu\gt = \nu\lt\mu|\nu\gt$$
+which forces you to conclude that $\lt\mu|\nu\gt = 0$.
 
+Since all the eigenvectors of $A$ are mutually orthogonal, you can rewrite $A$ in terms of its eigen-decomposition:
+$$A = UDU^{\dagger}$$
+with unitary $U$ and diagonal $D$ (assuming you normalized the eigenvectors).
+
+Once you've written $A$ in this form, it's a lot clearer why the eigenvalues of $A$ and $A^{\dagger}$ are related by complex conjugation ($A^{\dagger} = UD^{\dagger}U^{\dagger}).
+
+You can also double check explicitly that $A$ and $A^{\dagger}$ commute (but you know they must since $UDU^{\dagger}$ and $UD^{\dagger}U^{\dagger}$ necessarily have the same eigenspaces.)
 
 ===== SVD Refresher =====
 For the full story see the wikipedia article on the [[https://en.wikipedia.org/wiki/Singular-value_decomposition|SVD]], but here are a couple highlights.
