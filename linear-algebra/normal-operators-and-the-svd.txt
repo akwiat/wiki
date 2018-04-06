@@ -10,7 +10,7 @@ you know that $\lambda_\nu$-eigenvectors of $A$ are $\overline{\lambda_\nu}$-eig
 
 To show that the eigenvectors of $A$ are mutually orthogonal, consider the matrix elements of $A$ with respect to a pair of eigenvectors ($|\mu\gt$, $|\nu\gt$):
 $$\lt\mu|A|\nu\gt = \lt\mu|A\nu\gt = \lt A^{\dagger}\mu|\nu\gt$$
-by properties of the adjoint. Assuming that $|\mu$\gt$ and $|\nu$\gt$ are eigenvectors with distinct eigenvalues $\mu$ and $\nu$, you can modify the above to read:
+by properties of the adjoint. Assuming that $|\mu\gt$ and $|\nu$\gt$ are eigenvectors with distinct eigenvalues $\mu$ and $\nu$, you can modify the above to read:
 $$\mu\lt\mu|\nu\gt = \nu\lt\mu|\nu\gt$$
 which forces you to conclude that $\lt\mu|\nu\gt = 0$.
 
