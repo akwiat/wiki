@@ -1,4 +1,5 @@
 ====== How to contact the Kwiat child: an empirical guide ======
+This project is an attempt to create a universal procedure for how to contact Kwiat. Make edits with your preferred, battle-tested techniques.
 
 <uml>
 (*) --> "Do you suspect Kwiat to be\n on the go?" as Kwiat
@@ -7,7 +8,7 @@
 
 Bruges -down-> [No] "Do you think he's with other people?" as With
 -right-> [Yes] "Text them"
--right-> [But it could be anyone!] "Too bad!"
+-right-> [But it could be anyone!] "Better get started"
 -down-> "Text random people on your phone\n until you find someone who's with Kwiat."
 
 With -down-> [No] "Did he answer your calls?"
@@ -15,11 +16,11 @@ With -down-> [No] "Did he answer your calls?"
 -down-> [His phone does this weird thing with them] "Go to settings->messages->Show Subject Field \n and resend your message as the subject."
 
 
-Kwiat -down-> [No] "Is today the one day a year \n Kwiat checks Facebook?" as Facebook
+Kwiat -down-> [No] "Is today the date of Kwiat's\n annual foray onto Facebook?" as Facebook
 -left-> [Yes] "Facebook Message"
 
 Facebook -down-> [No] "Send an email"
--down-> [I have, like five email\n addresses on file for him] "Send an email to literally every\n address under Alex in your email contacts\n and hope at least one is correct"
+-down-> [I have, like, five email\n addresses for him] "Make a listserv of every email\n address under Alex in your contacts\n and send to that"
 
 
 
